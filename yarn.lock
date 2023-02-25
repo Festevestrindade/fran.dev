@@ -404,7 +404,12 @@
     "@react-spring/rafz" "~9.6.1"
     "@react-spring/types" "~9.6.1"
 
-"@react-spring/types@^9.6.1", "@react-spring/types@~9.6.1":
+"@react-spring/types@^9.7.0":
+  version "9.7.0"
+  resolved "https://registry.yarnpkg.com/@react-spring/types/-/types-9.7.0.tgz#1b19f9c07bc3ecb2bc7a253ec100f122ace14199"
+  integrity sha512-YEmhgtV7b6cNErxgYtlFpd/7N1EKV4IvxWjvLP3WVXi4xBhvBW7a3MCoHXzeTGbdWVK/YLnDh7BgJ542DwLZvg==
+
+"@react-spring/types@~9.6.1":
   version "9.6.1"
   resolved "https://registry.yarnpkg.com/@react-spring/types/-/types-9.6.1.tgz#913d3a68c5cbc1124fdb18eff919432f7b6abdde"
   integrity sha512-POu8Mk0hIU3lRXB3bGIGe4VHIwwDsQyoD1F394OK7STTiX9w4dG3cTLljjYswkQN+hDSHRrj4O36kuVa7KPU8Q==
