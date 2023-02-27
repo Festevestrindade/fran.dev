@@ -5,7 +5,7 @@
   fran.dev
 </h1>
 <p align="center">
-  The first version of <a href="https://fran-dev.vercel.app/">fran.dev</a>, my portfolio. Built with <a href="https://vitejs.dev/">Vite</a> and Deployed by <a href="https://www.netlify.com/">Vercel</a>
+  The first version of <a href="https://fran-dev.vercel.app/">fran.dev</a>, my portfolio. Built with <a href="https://vitejs.dev/">Vite</a> and Deployed by <a href="https://www.vercel.com/">Vercel</a>
 </p>
 <div align="center">
     <img height="44" src="https://skillicons.dev/icons?i=vercel,vite,nodejs,react,typescript,css,vscode" />
