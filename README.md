@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://fran-dev.vercel.app/"><img alt="Logo" src="https://github.com/Festevestrindade/fran.dev/fran.dev/blob/master/static/icons/logo.png" width="100" /></a>
+  <a href="https://fran-dev.vercel.app/"><img alt="Logo" src="https://github.com/Festevestrindade/fran.dev/blob/master/static/icons/logo.png" width="100" /></a>
 </div>
 <h1 align="center">
   fran.dev
