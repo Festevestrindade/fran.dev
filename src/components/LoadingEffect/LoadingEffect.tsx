@@ -3,7 +3,7 @@ const LoadingEffect = () => {
   return (
     <div className="loading">
       <div className="acme">
-        <img src="static/icons/logo_FET.gif" alt="logo" />
+        <img src="logo.gif" alt="logo" />
         <div className="bar"></div>
       </div>
     </div>

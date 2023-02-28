@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://franestevestrindade.netlify.app/"><img alt="Logo" src="https://github.com/Festevestrindade/fran.dev/blob/master/public/favicon.png" width="100" /></a>
+  <a href="https://franestevestrindade.netlify.app/"><img alt="Logo" src="https://github.com/Festevestrindade/fran.dev/blob/master/public/favicon.ico" width="100" /></a>
 </div>
 <h1 align="center">
   fran.dev
